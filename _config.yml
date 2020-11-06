@@ -13,7 +13,7 @@ url:
 baseurl: /ucsd-quantum.io
 
 # These can be '' to hide the Github or Gitlab nav buttons
-github: '/ucsd-quantum'
+github: '/ucsd-quantum/ucsd-quantum.io'
 gitlab: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
