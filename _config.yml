@@ -10,7 +10,7 @@ url:
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /ucsd-quantum
+baseurl: /ucsd-quantum.io
 
 # These can be '' to hide the Github or Gitlab nav buttons
 github: '/ucsd-quantum'
